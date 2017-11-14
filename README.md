@@ -1,24 +1,19 @@
-# README
+# Mini CV
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projet "Mini CV" du cours de Ruby de l'Ecole du Management et de l'Innovation de Sciences Po.
 
-Things you may want to cover:
+Pour déployer le projet :
 
-* Ruby version
+1) Télécharger le code avec la commande :
 
-* System dependencies
+```
+git clone https://github.com/SciencesPo-Ruby/minicv.git
+```
 
-* Configuration
+2) Installer les dépendances avec la commande :
 
-* Database creation
+```
+bundle install
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3) Lancer l'application.
