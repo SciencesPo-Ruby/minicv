@@ -10,6 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
+  text-align: justify;
   color: #545E6C;
   background: #f5f5f5;
   font-size: 14px;
@@ -52,7 +53,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #E7002F;
   position: absolute;
   right: 0;
   width: 240px;
@@ -161,7 +162,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2d7788;
+  color: #FF0000;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
